@@ -1,10 +1,3 @@
-/*
-	*Project: Smart Check-in/out SYS V1.1
-	*Basic Function: 1.three mode: standard mode/ auto add ID mode/ auto delete ID mode
-					 2.base on kernel_list to management ID information
-					 3.read card and match ID info will show the exact picture.
-	*DATE: 02/05/2017
-*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
