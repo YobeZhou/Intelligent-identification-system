@@ -10,7 +10,7 @@ OBJS=$(patsubst %.c, %.o, $(SRCS))
 
 $(ELF):$(OBJS)
 	$(CC) -o $@ $^ -lpthread $(CONFIG)
-	# cp test_V1.1 /home/abc/nfs_server
+	cp test_V1.1 /home/abc/nfs_server
 
 %.o:%.c
 	$(CC) -c $< -o $@ $(CONFIG)
