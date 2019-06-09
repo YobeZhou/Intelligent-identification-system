@@ -21,3 +21,6 @@
 - 在注销账户下将已注册的ID卡注销，同时删除对应的账户信息，包括删除链表节点及记录文档的对应内容。
 > 使用到链表进行账户管理， 使用记录文档保管对应的账户信息。
 
+# 项目成品概览
+<div align=center><img src="https://github.com/YobeZhou/Intelligent-identification-system/blob/master/source/images/%E6%88%90%E5%93%81%E5%9B%BE.jpg"/></div>
+<div align=center>图5-1 项目成品图</div>
