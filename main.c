@@ -11,7 +11,7 @@
 #include "rfid.h"
 #include "lcd.h"
 
-#define CAM_DEV     "/dev/video9"
+#define CAM_DEV     "/dev/video3"
 
 unsigned char frame_buffer[IMAGEHEIGHT*IMAGEWIDTH*3];
 FrameBuffer *cam_buffer;
